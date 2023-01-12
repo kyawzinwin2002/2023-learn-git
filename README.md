@@ -2,5 +2,5 @@
 Testing for students
 
 # Installation
-* * npm install blable
-* * import blabla form blable
+ * npm install blable
+ * import blabla form blable
